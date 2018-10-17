@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/accountemail/account-email.iml" filepath="$PROJECT_DIR$/accountemail/account-email.iml" />
+      <module fileurl="file://$PROJECT_DIR$/accountpersist/account-persist.iml" filepath="$PROJECT_DIR$/accountpersist/account-persist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/accountaggregator.iml" filepath="$PROJECT_DIR$/accountaggregator.iml" />
+    </modules>
+  </component>
+</project>
